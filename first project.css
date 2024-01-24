@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+.header{
+    background-color: yellow;
+    text-align:center ;
+    color: beige;
+    padding: 20px;
+}

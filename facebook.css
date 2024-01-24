@@ -1,0 +1,136 @@
+
+header {
+    background-color: blue;
+    display: flex;
+    padding: 10px;   
+    margin: 1px;
+    margin-bottom: 5px;
+    justify-content: space-between;
+    text-decoration:  1px solid white;
+}
+body{
+    /* background-image:url(facebook\ logo.jpg); */
+    width:100% ;
+    height: 100;
+    /* background-repeat: no-repeat; */
+    /* background-size: cover;
+     */
+    background-color: lightblue;
+}
+
+.abigail {
+    display: flex;
+    /* flex-direction: row-reverse; */
+    margin: 10px;
+    /* padding-left: 20px; */
+    justify-content: space-between;
+}
+
+.abigail form {
+    display: flex;
+    padding-right: 20px;
+}
+
+
+.email {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.password {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.login {
+    display: flex;
+    margin: 10px;
+    height: 30px;
+}
+
+label {
+    color: white;
+}
+
+p {
+    color: white;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.nav {
+    padding: 20px;
+    margin: 20px;
+    width: auto;
+    display: inline-block;
+    inline-size: none;
+    
+}
+
+.navcare {
+    align-items: end;
+}
+.story{
+    display: flex;
+    gap: 5px;
+}
+.story img{
+    height: 50px;
+    width: 50px;
+
+}
+h2{
+    display: flex;
+    text-decoration: solid red;
+    font-size: larger;
+    border-radius: 1px;
+    text-transform: lowercase;
+}
+p{
+    padding: 5px;
+    font-size: large;
+}
+ .button2 {
+    background-color: green;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+ .login {
+    background-color: white;
+}
+
+.signup p {
+    color: black;
+    font-size: 20px;
+    font-weight: normal;
+}
+.dates {
+    margin: 1px;
+}
+
+label {
+    color:red;
+}
+input {
+    border-color: white;
+    padding: 10px;
+    margin: 10px;
+    display: inline;
+}
+
+.terms {
+   color: burlywood;
+   font-size: large;
+   font-weight: 20px;
+   display: block;
+   justify-content: end;
+}
+.hero {
+    display: flex;
+   margin-bottom: 20px;
+    padding: 10px;
+    border: 10px;
+}
